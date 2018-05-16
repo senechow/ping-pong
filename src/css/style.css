@@ -1,0 +1,11 @@
+#buttons {
+	margin-bottom: 20px;
+}
+
+#chooseDifficulty {
+	display: inline;
+}
+
+#difficultySelected {
+	display: inline;
+}
